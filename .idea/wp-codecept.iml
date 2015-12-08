@@ -7,10 +7,24 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
+          <root url="phar:///Library/WebServer/Documents/wordpress/wp-content/plugins/sample-plugin/codecept.phar/" />
+          <root url="phar:///Library/WebServer/Documents/wordpress/wp-content/plugins/hello-akiyoshi/codecept.phar/" />
           <root url="phar://$MODULE_DIR$/codecept.phar/" />
         </CLASSES>
         <SOURCES>
+          <root url="phar:///Library/WebServer/Documents/wordpress/wp-content/plugins/sample-plugin/codecept.phar/" />
+          <root url="phar:///Library/WebServer/Documents/wordpress/wp-content/plugins/hello-akiyoshi/codecept.phar/" />
           <root url="phar://$MODULE_DIR$/codecept.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file:///Library/WebServer/Documents/wordpress" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///Library/WebServer/Documents/wordpress" />
         </SOURCES>
       </library>
     </orderEntry>
