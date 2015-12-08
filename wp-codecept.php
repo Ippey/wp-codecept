@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Wp-codecept
-Version: 0.1-alpha
-Description: PLUGIN DESCRIPTION HERE
-Author: YOUR NAME HERE
-Author URI: YOUR SITE HERE
-Plugin URI: PLUGIN SITE HERE
+Version: 1.1
+Description: This plugin shows message on your admin page.
+Author: Ippei Sumida
+Author URI: http://unplat.info
+Plugin URI: http://unplat.info
 Text Domain: wp-codecept
 Domain Path: /languages
 */
