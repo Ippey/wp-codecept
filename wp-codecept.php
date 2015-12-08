@@ -17,7 +17,7 @@ class WpCodecept
 {
 	public function register()
 	{
-		add_action("admin_noticesn", array($this, "render"));
+		add_action("admin_notices", array($this, "render"));
 	}
 
 	public function render()
